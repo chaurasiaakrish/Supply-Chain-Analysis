@@ -30,7 +30,7 @@ This project presents a Supply Chain Analysis Dashboard built in Microsoft Excel
 
 - ## Dashboard Preview
 
-![Supply Chain Dashboard](dashboard.png)
+![Supply Chain Dashboard](dashborad.png)
 
 ## Skills Demonstrated
 - Data Cleaning
