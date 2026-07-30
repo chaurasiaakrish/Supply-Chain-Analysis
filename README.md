@@ -1,9 +1,9 @@
 # Supply-Chain-Analysis
-Supply Chain Analysis Dashboard built in Microsoft Excel.
+Supply Chain Analysis Dashboard built in Google Sheets.
 # 📊 Supply Chain Analysis Dashboard
 
 ## Overview
-This project presents a Supply Chain Analysis Dashboard built in Microsoft Excel to analyze business performance using key supply chain metrics.
+This project presents a Supply Chain Analysis Dashboard built in Google Sheets to analyze business performance using key supply chain metrics.
 
 ## Features
 - 📦 Total Orders
