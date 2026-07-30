@@ -13,7 +13,7 @@ This project presents a Supply Chain Analysis Dashboard built in Microsoft Excel
 - 🚛 Top Transport Mode
 
 ## Tools Used
-- Microsoft Excel
+- Google Sheets
 - Pivot Tables
 - Pivot Charts
 - Slicers
