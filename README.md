@@ -39,5 +39,8 @@ This project presents a Supply Chain Analysis Dashboard built in Google Sheets t
 - KPI Reporting
 - Business Intelligence
 
+## Certification of Completion of Project
+![Google Sheets Mastery CErtificate](Google%20Sheets%20Mastery%20Certificate.png)
+
 ## Author
 **Akrish Chaurasia**
